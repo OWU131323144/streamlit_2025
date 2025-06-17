@@ -1,7 +1,6 @@
 import streamlit as st
 import datetime
 import time
-import matplotlib.pyplot as plt
 from PIL import Image
 
 # --- セッションステートの初期化 ---
